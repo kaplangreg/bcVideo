@@ -1,0 +1,14 @@
+.videoFrame {
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+#videoFrame .vjs-big-play-button {
+  background-color: #f00;
+  opacity: .6;
+}
